@@ -10,6 +10,9 @@ public class Main {
 	{
 		System.out.println("Welcome to GitHub Demo Program");
 		System.out.println("Learn to Connect Git and Eclipse");
+		
+		
+		System.out.println("Now Push and Pull");
 	}
 
 	
